@@ -8,3 +8,5 @@ if score > 25:
 user_input_score = int(input("Enter score:"))
 if user_input_score > 25:
     print("You passed")
+
+# change
